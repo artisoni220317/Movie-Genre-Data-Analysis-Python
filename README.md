@@ -2,9 +2,9 @@
 ## Research Questions
 1. Which genre is the most common(number of movies made)?
 2. Which genre have high avg.budget and revenue?
- 2.5 Which genre have highest avg. Profit?
-3. Which genre have high avg.popularity?
-4. Which genre have highest number of movies with an voting avg >=8?
+3. Which genre have highest avg. Profit?
+4. Which genre have high avg.popularity?
+5. Which genre have highest number of movies with an voting avg >=8?
    
 ## Research Hypothesis
 
