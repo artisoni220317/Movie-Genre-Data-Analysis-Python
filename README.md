@@ -1,5 +1,6 @@
 # Movie-Genre-Data-Analysis-Python
-
+## Research Questions
+1. Which genre have high avg.budget and revenue?
 ## Research Hypothesis
 
 1. The best movies according to vote avg.return high profit and revenue.
